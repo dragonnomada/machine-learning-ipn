@@ -1,0 +1,30 @@
+Ciencia de datos
+
+Adquir (data mining, big data)
+  - bases de datos
+  - internet
+  - scrapy
+Limpiar
+  - expresiones regulares
+  - procesamiento de imágenes
+Estructurar
+  - listas, tuplas, diccionarios, dataframes
+  - entrada imágenes, video, audio
+Procesar (machine learning)
+  - redes neuronales
+  - estadísticas
+Visualizar (dataviz)
+  - ejes, dimensiones, mapas, categorías
+Automatizar (data automation)
+  - chatbots, bot scrapy
+
+Machine Learning
+  - Clasificadores
+  - Regresiones
+  - Máquinas de Soporte Vectorial
+  - Redes neuronales (Genéricas, Convolutivas, Recurrentes)
+    * Aprendizaje genérico
+    * Aprendizaje en imágenes
+    * Aprendizaje en textos
+  - Pruebas de validación y rendimiento
+
